@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Makanan Kekinian Surabaya</string>
+    <string name="nama_makanan">nama_makanan</string>
+    <string name="deskripsi">deskripsi</string>
+    <string name="keterangan">keterangan</string>
+    <string name="nama_daftarmakanan">Nama Makanan</string>
+</resources>
